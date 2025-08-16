@@ -34,30 +34,21 @@
 
 ## 🛠 Skills
 
-### **Back-End Development**
-<p>
+
+### **🛠️ Languages & Tools:*
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="40" alt="C#" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="40" alt=".NET Core" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" alt="SQL Server" />
   <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" width="40" alt="PostgreSQL" />
   <img src="https://www.svgrepo.com/show/354272/redis.svg" width="40" alt="Redis" />
-</p>
-
-### **Front-End Development**
-<p>
   <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" alt="HTML" />
   <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" alt="CSS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" alt="Bootstrap" />
-</p>
-
-### **Tools & Software**
-<p>
   <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" alt="Git" />
   <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" alt="Visual Studio" />
   <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" alt="VS Code" />
   <img src="https://www.svgrepo.com/show/354420/swagger.svg" width="40" alt="Swagger" />
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" alt="Postman" />
-</p>
 
 ---
 
