@@ -24,18 +24,18 @@
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on **personal side projects**
-- 🌱 Learning **Software Engineering & Advanced .NET**
+- 🌱 Learning **Software Engineering & Advanced .NET & Front-End**
 - 👯 Open to collaborating on **open-source projects**
-- 💬 Ask me about **C#, ASP.NET, Databases And Network**
+- 💬 Ask me about **C#, ASP.NET, Front-End, Databases And Network**
 - 📫 Reach me in the **Contact section**
 - ⚡ Fun fact: *I never thought I would become a .NET programmer!*
 
 ---
 
-## 🛠 Skills
 
 
 ### **🛠️ Languages & Tools:*
+<p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="40" alt="C#" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="40" alt=".NET Core" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" alt="SQL Server" />
@@ -49,8 +49,11 @@
   <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" alt="VS Code" />
   <img src="https://www.svgrepo.com/show/354420/swagger.svg" width="40" alt="Swagger" />
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" alt="Postman" />
+</p>
 
----
+
+
+
 
 ## 📊 GitHub Stats
 <div align="center">
