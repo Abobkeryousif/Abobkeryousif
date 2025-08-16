@@ -78,4 +78,9 @@
   <a href="https://api.whatsapp.com/send?phone=+966543927332&text=Hello" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/25D366/phone.png" alt="Contact via WhatsApp"/> </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+</p>
+
+
 ---
