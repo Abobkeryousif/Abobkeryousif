@@ -22,25 +22,29 @@
   <img src="https://img.shields.io/badge/Languages-Arabic-blue?style=for-the-badge" />
 </p>
 
+---
+
 ### 👨‍💻 About Me
 - 🔭 Currently working on **personal side projects**
-- 🌱 Learning **Software Engineering & Advanced .NET & Front-End**
+- 🌱 Learning **Software Engineering, Advanced .NET & Front-End**
 - 👯 Open to collaborating on **open-source projects**
-- 💬 Ask me about **C#, ASP.NET, Front-End, Databases And Network**
+- 💬 Ask me about **C#, ASP.NET, Databases, Front-End & Networking**
 - 📫 Reach me in the **Contact section**
 - ⚡ Fun fact: *I never thought I would become a .NET programmer!*
 
 ---
 
-
-
-### **🛠️ Languages & Tools:*
+### 🛠️ Languages & Tools
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="40" alt="C#" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="40" alt=".NET Core" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" alt="SQL Server" />
   <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" width="40" alt="PostgreSQL" />
   <img src="https://www.svgrepo.com/show/354272/redis.svg" width="40" alt="Redis" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  
   <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" alt="HTML" />
   <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" alt="CSS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" alt="Bootstrap" />
@@ -51,9 +55,7 @@
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" alt="Postman" />
 </p>
 
-
-
-
+---
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -61,6 +63,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abobkeryousif&theme=tokyonight&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abobkeryousif&theme=tokyonight&hide_border=false&layout=compact" height="150"/>
 </div>
+
+---
 
 ## 📈 GitHub Activity Graph
 <p align="center">
@@ -71,16 +75,15 @@
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/abobkeryousif" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://github.com/abobkeryousif" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/></a>
-  <a href="mailto:bakryhassona7@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/></a>
-  <a href="https://drive.google.com/file/d/10fnEFlgDB1gEp0tHKlyDKTqckP4Ww_tA/view" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/resume.png" alt="Resume"/></a>
-  <a href="https://api.whatsapp.com/send?phone=+966543927332&text=Hello" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/25D366/phone.png" alt="Contact via WhatsApp"/> </a>
+  <a href="https://www.linkedin.com/in/abobkeryousif" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/abobkeryousif" target="_blank"><img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/></a>
+  <a href="mailto:bakryhassona7@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/></a>
+  <a href="https://drive.google.com/file/d/10fnEFlgDB1gEp0tHKlyDKTqckP4Ww_tA/view" target="_blank"><img src="https://img.icons8.com/color/48/resume.png" alt="Resume"/></a>
+  <a href="https://api.whatsapp.com/send?phone=+966543927332&text=Hello" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/25D366/phone.png" alt="WhatsApp"/>
+  </a>
 </p>
 
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
-
-
----
