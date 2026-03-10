@@ -25,12 +25,15 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **personal side projects**
-- 🌱 Learning **Software Engineering, Advanced .NET & Front-End**
-- 👯 Open to collaborating on **open-source projects**
-- 💬 Ask me about **C#, ASP.NET, Databases, Front-End & Networking**
-- 📫 Reach me in the **Contact section**
-- ⚡ Fun fact: *I never thought I would become a .NET programmer!*
+* 🔭 Currently building **scalable backend systems and personal projects using .NET and DevOps tools**
+* 🌱 Deepening my knowledge in **Advanced .NET, Database, Kubernetes & GitOps**
+* 🧠 Experienced in **Clean Architecture, RESTful APIs, EF Core, and secure authentication (JWT)**
+* ⚙️ Working with **Docker, Kubernetes, ArgoCD, and CI/CD pipelines**
+* 💬 Ask me about **C#, ASP.NET Core, Backend Architecture, Databases, and API Design**
+* 🤝 Open to collaborating on **backend systems and open-source .NET projects**
+* 📫 Reach me through the **Contact section**
+* ⚡ Fun fact: *My journey into .NET started with curiosity and turned into a passion for backend engineering.*
+
 
 ---
 
@@ -44,6 +47,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://logo.svgcdn.com/devicon/argocd-original.svg" width="60" alt="ArgoCD"/>
   
   <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" alt="HTML" />
   <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" alt="CSS" />
