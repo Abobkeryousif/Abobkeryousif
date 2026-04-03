@@ -39,15 +39,16 @@
 
 ### 🛠️ Languages & Tools
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="40" alt="C#" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="40" alt=".NET Core" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="45" alt="C#" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="45" alt=".NET Core" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" alt="SQL Server" />
   <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" width="40" alt="PostgreSQL" />
   <img src="https://www.svgrepo.com/show/354272/redis.svg" width="40" alt="Redis" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://logo.svgcdn.com/devicon/argocd-original.svg" width="60" alt="ArgoCD"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker" />
+  <img src="https://logo.svgcdn.com/devicon/argocd-original.svg" width="45" alt="ArgoCD"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" alt="Github Actions"/>
   
   <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" alt="HTML" />
   <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" alt="CSS" />
@@ -62,11 +63,10 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abobkeryousif&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abobkeryousif&theme=tokyonight&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abobkeryousif&theme=tokyonight&hide_border=false&layout=compact" height="150"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abobkeryousif&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abobkeryousif&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
