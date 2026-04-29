@@ -82,7 +82,6 @@
   <a href="https://www.linkedin.com/in/abobkeryousif" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://github.com/abobkeryousif" target="_blank"><img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/></a>
   <a href="mailto:bakryhassona7@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/></a>
-  <a href="https://drive.google.com/file/d/10fnEFlgDB1gEp0tHKlyDKTqckP4Ww_tA/view" target="_blank"><img src="https://img.icons8.com/color/48/resume.png" alt="Resume"/></a>
   <a href="https://api.whatsapp.com/send?phone=+966543927332&text=Hello" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/25D366/phone.png" alt="WhatsApp"/>
   </a>
